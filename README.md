@@ -1,4 +1,4 @@
-##Resizing your phone resolution
+##Resizing your phone resolution##
 1. connect your phone to your pc
 2. Open CMD, use adb
 3. adb -s {your series phone number} reboot
